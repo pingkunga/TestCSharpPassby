@@ -1,0 +1,5 @@
+C:\Users\adminping\RiderProjects\TestCSharpPassby\TestCSharpPassby\obj\Debug\TestCSharpPassby.csprojResolveAssemblyReference.cache
+C:\Users\adminping\RiderProjects\TestCSharpPassby\TestCSharpPassby\bin\Debug\TestCSharpPassby.exe
+C:\Users\adminping\RiderProjects\TestCSharpPassby\TestCSharpPassby\bin\Debug\TestCSharpPassby.pdb
+C:\Users\adminping\RiderProjects\TestCSharpPassby\TestCSharpPassby\obj\Debug\TestCSharpPassby.exe
+C:\Users\adminping\RiderProjects\TestCSharpPassby\TestCSharpPassby\obj\Debug\TestCSharpPassby.pdb
